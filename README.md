@@ -3,7 +3,7 @@ This project will learn to create interactive dialogues with language models, bl
 
 ### Author : @IBM Academy
 
-#### Mentee assignment from IBM Advance AI @Infinite Learning Course completion of Create AI powered apps with open source LangChain from CognitiveClass.ai
+### Mentee assignment from IBM Advance AI @Infinite Learning Course completion of Create AI powered apps with open source LangChain from CognitiveClass.ai
 
 ### Final Output 
 ![alt text](https://github.com/MeilaAdisty/Create-AI-powered-apps-with-open-source-LangChain/blob/main/Screenshot%20(18).png?raw=true)
